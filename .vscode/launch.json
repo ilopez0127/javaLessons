@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - rectangle",
+            "request": "launch",
+            "mainClass": "rectangle"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Function",
+            "request": "launch",
+            "mainClass": "Function"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ArrayPractice",
+            "request": "launch",
+            "mainClass": "ArrayPractice"
+        }
+    ]
+}
