@@ -4,9 +4,16 @@ public class rectangle {
         
         area(3,3);
     }
-        public static void area(int len, int wid){
+        public static int area(int len, int wid){
            int x=len*wid;
+           int result;
+           result= area;
+        
+          
         System.out.println("The area of the rectangle is " + x);
+        return area;
+
+        
 
         }
 
